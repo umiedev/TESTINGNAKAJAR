@@ -6,3 +6,5 @@ public class Main {
     }
 }
 //save dulu
+
+//cara nak push ni dalam github  
